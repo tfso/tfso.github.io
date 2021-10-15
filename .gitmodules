@@ -1,0 +1,3 @@
+[submodule "publicapi/playground"]
+	path = publicapi/playground
+	url = https://github.com/tfso/server-auth-client-playground
